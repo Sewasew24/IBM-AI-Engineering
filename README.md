@@ -1,2 +1,3 @@
-## IBM-AI-Engineering
-### Coursera IBM exercises 
+# IBM-AI-Engineering
+
+Coursera IBM exercises 
